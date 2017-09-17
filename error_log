@@ -1,0 +1,8 @@
+[13-Sep-2017 12:08:46 UTC] PHP Fatal error:  Call to undefined function victoryblog_entry_footer() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content-search.php on line 28
+[13-Sep-2017 12:09:20 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content-search.php on line 18
+[13-Sep-2017 12:11:29 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content.php on line 23
+[13-Sep-2017 12:12:18 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content.php on line 23
+[13-Sep-2017 12:26:41 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content-search.php on line 18
+[13-Sep-2017 12:28:53 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content.php on line 23
+[13-Sep-2017 12:42:07 UTC] PHP Fatal error:  Call to undefined function victoryblog_posted_on() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content-search.php on line 18
+[13-Sep-2017 12:43:48 UTC] PHP Fatal error:  Call to undefined function victoryblog_entry_footer() in /home/victoryinformati/public_html/newwp/wp-content/themes/victoryblog/template-parts/content-search.php on line 28
